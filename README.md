@@ -10,7 +10,7 @@ A recreation of the iconic kinetic clock sculpture **ClockClock 24** (inspired b
 
 ---
 
-## ✨ Features
+## Features
 
 - **Precision Kinetic Time Display**:
   - 24 analog clocks forming 4 digits (`HH:MM`).
@@ -46,7 +46,7 @@ A recreation of the iconic kinetic clock sculpture **ClockClock 24** (inspired b
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
@@ -58,7 +58,7 @@ A recreation of the iconic kinetic clock sculpture **ClockClock 24** (inspired b
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Open `index.html` directly in any web browser. No build steps, bundlers, servers, or external libraries required.
 
@@ -68,6 +68,6 @@ open index.html
 
 ---
 
-## 📜 License
+## License
 
 MIT License. Designed as an artistic web hommage inspired by the original ClockClock 24 sculpture by *Humans since 1982*.
